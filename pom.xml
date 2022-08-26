@@ -8,7 +8,7 @@
     <version>1.0</version>
     <packaging>jar</packaging>
 
-    <name>cis-project</name>
+    <name>cis-project.war</name>
     <url>http://maven.apache.org</url>
 
     <properties>
